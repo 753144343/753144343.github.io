@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>QQ753144343</title>
@@ -22,7 +21,11 @@
     <div class="flex-container">
         <div class="highlight-text">
             纸上得来终觉浅，绝知此事要躬行。
-            <br>QQ753144343
+        </div>
+    </div>
+     <div class="flex-container">
+        <div class="highlight-text">
+            QQ753144343
         </div>
     </div>
 </body>
